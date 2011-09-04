@@ -5,7 +5,6 @@ Created on Mon Jul 25 19:30:24 2011
 @author: pablo
 """
 
-
 # Funcao de sucessao
 def s(elemento,elementos,esquerda=""):
 
